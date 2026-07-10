@@ -1,4 +1,4 @@
-# agentic-customer-onboarding-skill
+# genpark-agentic-customer-onboarding-skill
 
 > **GenPark AI Agent Skill** -- # Agentic Customer Onboarding Skill
 
